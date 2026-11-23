@@ -5,7 +5,7 @@ Cybersecurity Student | Aspiring Penetration Tester | Software Developer
 
 Welcome to my GitHub profile!
 
-I'm a Computer Science student specializing in Cybersecurity, currently at the beginning of my journey in the world of technology, programming, and information security.
+I'm a Information security student specializing in Cybersecurity, currently at the beginning of my journey in the world of technology, programming, and information security.
 
 I'm passionate about understanding how software and systems work, how vulnerabilities can be discovered, and most importantly, how they can be prevented and secured.
 
