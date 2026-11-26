@@ -1,4 +1,4 @@
-# ABO_AFFI
+# ramibinaffi-lgmt
 Hi, I'm Rami 👋
 
 Cybersecurity Student | Aspiring Penetration Tester | Software Developer
